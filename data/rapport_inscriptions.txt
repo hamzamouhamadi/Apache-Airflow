@@ -1,0 +1,14 @@
+Rapport des inscriptions etudiantes
+===================================
+
+Nombre total : 6
+Par filiere : {'BDCC': 3, 'IA': 2, 'Data': 1}
+Par niveau : {'M2': 3, 'M1': 3}
+
+Affectations aux groupes
+- Amina El Amrani : G1
+- Youssef Alaoui : G2
+- Sara Bennani : G1
+- Omar Idrissi : G2
+- Imane Tazi : G1
+- Mehdi Naciri : G2

@@ -1,0 +1,12 @@
+{
+    "total": 6,
+    "par_filiere": {
+        "BDCC": 3,
+        "IA": 2,
+        "Data": 1
+    },
+    "par_niveau": {
+        "M2": 3,
+        "M1": 3
+    }
+}

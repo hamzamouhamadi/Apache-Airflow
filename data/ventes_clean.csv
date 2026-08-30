@@ -1,0 +1,7 @@
+id_vente,ville,produit,prix,quantite,montant
+1,Casablanca,PC,8000.0,2,16000.0
+2,Rabat,Clavier,300.0,5,1500.0
+3,Marrakech,Souris,150.0,10,1500.0
+4,Casablanca,Ecran,2500.0,3,7500.0
+5,Tanger,PC,8500.0,1,8500.0
+6,Rabat,Ecran,2300.0,2,4600.0

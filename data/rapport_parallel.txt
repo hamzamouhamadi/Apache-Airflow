@@ -1,0 +1,14 @@
+Rapport final du pipeline parallele
+==================================
+
+Chiffre d'affaires par ville
+Casablanca : 23500.0 DH
+Rabat : 6100.0 DH
+Marrakech : 1500.0 DH
+Tanger : 8500.0 DH
+
+Chiffre d'affaires par produit
+PC : 24500.0 DH
+Clavier : 1500.0 DH
+Souris : 1500.0 DH
+Ecran : 12100.0 DH

@@ -1,0 +1,7 @@
+Rapport du pipeline Big Data
+============================
+
+Casablanca : 23500.0 DH
+Rabat : 6100.0 DH
+Marrakech : 1500.0 DH
+Tanger : 8500.0 DH
